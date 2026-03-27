@@ -1,4 +1,4 @@
-# Airline Ticketing System
+# Airline Ticket Booking
 
 ## Query : Create Table Passenger
 
